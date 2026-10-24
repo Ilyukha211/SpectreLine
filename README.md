@@ -20,6 +20,4 @@ If Windows SmartScreen shows a warning, click **More info** → **Run anyway**. 
 
 ## License
 
-Copyright (c) 2026 Ilyukha211. All rights reserved.
-
-The source code is available for viewing and security review only. Copying, modifying, redistributing, or reusing it without written permission from the author is not allowed. The compiled application may be downloaded and used for personal, non-commercial purposes only. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
